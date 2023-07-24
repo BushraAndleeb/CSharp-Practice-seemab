@@ -8,7 +8,8 @@ namespace batch001_do.@while
 {
     class Program
     {
-        static void Main(string[] args)
+        static void
+            Main(string[] args)
         {
              int i = 1;
             
